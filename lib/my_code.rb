@@ -36,6 +36,7 @@ def reduce_to_all_true(source_array)
     if !source_array[index]
       return false
     end
+  end
   return true
 end
 
